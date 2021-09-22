@@ -1,4 +1,4 @@
 policy "main" {
-  source = "main.sentinel"
+  source = "./main.sentinel"
   enforcement_level = "hard-mandatory"
 }
